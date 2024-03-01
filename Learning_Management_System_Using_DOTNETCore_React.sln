@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning_Management_System_Using_DOTNETCore_React", "Learning_Management_System_Using_DOTNETCore_React\Learning_Management_System_Using_DOTNETCore_React.csproj", "{052BCEA3-392C-459E-A22A-296CDB860BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052BCEA3-392C-459E-A22A-296CDB860BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052BCEA3-392C-459E-A22A-296CDB860BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052BCEA3-392C-459E-A22A-296CDB860BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052BCEA3-392C-459E-A22A-296CDB860BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A80E2CB-839C-43E7-82E8-4DAE033F6FFF}
+	EndGlobalSection
+EndGlobal
